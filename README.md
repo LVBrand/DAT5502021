@@ -36,7 +36,9 @@ https://github.com/tensorflow/docs/tree/master/site/en/
 
 
 ## Candidate datasets
-- https://www.kaggle.com/arshadgeek/piano-notes-transcription
+- **https://www.kaggle.com/arshadgeek/piano-notes-transcription**
+  
+## Optional datasets
 - https://www.kaggle.com/juliancienfuegos/what-is-a-note
 - https://www.kaggle.com/soumikrakshit/classical-music-midi
 - https://magenta.tensorflow.org/datasets/maestro#v300
