@@ -17,11 +17,22 @@ Dataset:
 http://theremin.music.uiowa.edu/MISpiano.html
 
 
-Utilities:
+### Utilities:
 https://github.com/attejensen/abctool
 https://github.com/g4brielvs/python-tomita
 
-## Libraries
+## Algorithms
+- Spectrogram
+- MFCC Spectrogram
+    https://en.wikipedia.org/wiki/Mel-frequency_cepstrum#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia,nonlinear%20mel%20scale%20of%20frequency.
+
+## Python audio Libraries
+- https://mido.readthedocs.io/en/latest/
+- https://wiki.python.org/moin/PythonInMusic
+
+## Tutorials
+https://github.com/tensorflow/docs/tree/master/site/en/
+
 
 
 ## Candidate datasets
@@ -33,7 +44,14 @@ https://github.com/g4brielvs/python-tomita
 ### MIDI FIle format specification
 https://github.com/colxi/midi-parser-js/wiki/MIDI-File-Format-Specifications
 
+## Kaggle Repository
+https://www.kaggle.com/asahicantu/dat550-2021-final-project/
+
 ## Tasks
+[] Try different preprocessing techniques and find out its differences
+
+
+
 0. Transform Audio MIDI Files into waveforms
 1. Iterate over best features to extract and process
 2. Candidate algorithms to use
