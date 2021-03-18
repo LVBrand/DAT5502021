@@ -21,10 +21,30 @@ Utilities:
 https://github.com/attejensen/abctool
 https://github.com/g4brielvs/python-tomita
 
+## Libraries
+
+
+## Candidate datasets
+- https://www.kaggle.com/arshadgeek/piano-notes-transcription
+- https://www.kaggle.com/juliancienfuegos/what-is-a-note
+- https://www.kaggle.com/soumikrakshit/classical-music-midi
+- https://magenta.tensorflow.org/datasets/maestro#v300
+
+### MIDI FIle format specification
+https://github.com/colxi/midi-parser-js/wiki/MIDI-File-Format-Specifications
 
 ## Tasks
-* [] Get Audio Files Data
-* [] Create feature extraction mechanism
-
+0. Transform Audio MIDI Files into waveforms
+1. Iterate over best features to extract and process
+2. Candidate algorithms to use
+   1. Given an audio sample dataset, split a file into smaller time chunks
+   2. Fourier transformation
+   3. Frequency over time diagram
+4. [] Get Audio Files Data
+   1. Creating them  or get dataset
+   2. 
+5. [] Create feature extraction mechanism
+6. [] 
 
  
+
